@@ -1,0 +1,6 @@
+{
+  "_comment": "Copy to truth.json (git-ignored), key = part of the sample's file name, values checked by hand against the document. Omit a field to skip it; \"date\": null = no date printed.",
+  "receipt-handwritten": { "total": 58000, "doc": "TA 0101", "date": "2026-10-17", "cur": "IDR", "status": "Needs review" },
+  "invoice-vat-2pages": { "total": 1117.80, "subtotal": 972, "tax": 145.80, "doc": "RAIL-000123", "date": "2026-10-12", "cur": "SAR", "status": "OK" },
+  "ride-app-screenshot": { "total": 53500, "subtotal": 62000, "date": null, "cur": "IDR", "status": "Needs review" }
+}

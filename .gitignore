@@ -1,0 +1,27 @@
+# Real documents for local testing: never commit
+samples/
+truth.json
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+!docs/images/*.png
+
+# Keys and local config
+.env
+.env.*
+*.key
+.clasp.json
+.clasprc.json
+
+# Test output and tooling
+live_test_output/
+*.log
+node_modules/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
